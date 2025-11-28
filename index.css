@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  overflow: hidden; /* Prevent scrolling during animations */
+  background-color: #051a12;
+}
